@@ -12,7 +12,7 @@ Komplett **offline-fähig** (PWA mit Service-Worker), kein Build, keine Abhängi
 reines HTML/CSS/JS.
 
 ## Live
-GitHub Pages: `https://professorengergit.github.io/roboterarm-learn/`
+GitHub Pages: `https://professorengineergit.github.io/roboterarm-learn/`
 
 ## Lokal
 Einfach `index.html` im Browser öffnen — oder im Workshop direkt vom Board
