@@ -1,6 +1,6 @@
 # Bilder & Grafiken für die Lern-Website
 
-Die Seite nutzt bewusst **scharfe SVG-Mockups** (Terminal-Fenster, Windows-Dialoge) statt Fotos —
+Die Seite nutzt bewusst **scharfe SVG-Mockups** (Terminal-Fenster, Windows-Dialoge) statt Fotos -
 die sind gestochen scharf, on-theme und funktionieren **komplett offline**.
 
 ## Echte Screenshots ergänzen (optional)
@@ -22,4 +22,4 @@ Empfohlene Aufnahmen (jeweils ~1200 px breit, PNG):
 | `ssh-arm.png`          | Per `ssh` am Roboterarm angemeldet |
 
 Tipp: Screenshots mit großem Schriftgrad aufnehmen (im Terminal `Strg`+`+`), damit Kinder alles lesen.
-Wo ein `<img>` steht, kannst du das danebenliegende `<svg>`-Mockup entfernen — oder beides lassen.
+Wo ein `<img>` steht, kannst du das danebenliegende `<svg>`-Mockup entfernen - oder beides lassen.
